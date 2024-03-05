@@ -1,0 +1,19 @@
+A6 Summary
+
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members: Saanvi Dhaniyala (sd722) and Riley Coogan (rmc329)
+
+Time spent on the assignment, in hours: 5
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+We decided to do the todos together in one sitting. This assignment was not as hard as the last one.
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+We went through the checklist to make sure we covered everything that needed to be done.
+Known problems:
+    (are there any things that do not work?)
+None
+Comments on the assignment:
+We liked this assignment because it was fun and also informative.
