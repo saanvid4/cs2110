@@ -1,0 +1,26 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members:
+sd722 and rmc329
+Time spent on the assignment, in hours: 20
+
+Implementation strategy:
+We each decided to do different parts of the assignment, with one partner focusing greatly on
+implementation, and one partner focusing greatly on testing and debugging. This was a good strategy
+so we could work hand in hand on solving issues that occured.
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+
+
+Testing strategy:
+In order to receive maximum coverage, we decided to test as many edge cases and scenarios as
+possible. This includes all of the rules of pente, and all of the invalid moves.
+    (how did you perform testing and design test cases to achieve coverage?)
+
+Known problems:
+None
+    (are there any things that do not work?)
+
+Time spent on the assignment, in hours: 20
+
+Comments on the assignment: I thought this assignment was very hard and long, and slightly more
+confusing than the last four assignments.

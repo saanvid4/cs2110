@@ -1,0 +1,30 @@
+help
+addstudent Jane Doe 4
+addstudent Bill Nye 1
+addstudent Saanvi Dhaniyala 3
+addstudent Anjali Kesari 1
+addstudent Jack Tapper 2
+addstudent Nick Clark 3
+addstudent Aislinn Ennis 3
+students
+addcourse MATH2940 Stillman Olin 12:00
+addcourse CS2110 Myers Statler 10:00
+addcourse FWS Greenlee Uris 18:25
+addcourse ECON Thomas Statler 1:25
+addcourse ECE Clark Hollister 4:00
+courses
+enroll 0 1
+enroll 1 1
+enroll 2 2
+enroll 3 2
+enroll 5 4
+enrollment 1
+drop 1 0
+enrollment 0
+drop 0 0
+enrollment 1
+enrollment 2
+enroll 1 2
+drop 1 2
+students
+exit
